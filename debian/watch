@@ -1,3 +1,2 @@
-version=1.1
-
-https://github.com/Jimdo/python-munin
+version=1.2
+http://githubredir.debian.net/github/Jimdo/python-munin (.*).tar.gz

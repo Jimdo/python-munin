@@ -5,7 +5,7 @@ PYTHON=`which python`
 DESTDIR=/
 BUILDIR=$(CURDIR)/debian/python-munin
 PROJECT=python-munin
-VERSION=1.1
+VERSION=1.2
 
 all:
 	@echo "make source - Create source package"
