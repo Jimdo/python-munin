@@ -1,3 +1,9 @@
+python-munin (1.2) UNRELEASED; urgency=low
+
+  * Set watch-file to http://githubredir.debian.net/github/Jimdo/python-munin
+
+ -- LarsFronius <lars@jimdo.com> Thu, 15 Dec 2011 10:23:23 +0100
+
 python-munin (1.1) UNRELEASED; urgency=low
 
   * Initial release. For list of changes take a look at 
